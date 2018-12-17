@@ -2,13 +2,8 @@
 # -*- coding: utf-8 -*-
 # */AIPND-revision/intropyproject-classify-pet-images/get_pet_labels.py
 #
-<<<<<<< HEAD
 # PROGRAMMER: Daniel Tejeda
-# DATE CREATED: 2016-12-17
-=======
-# PROGRAMMER:
-# DATE CREATED:
->>>>>>> e8eca6f5f56746b2cc06c01f6cc72702e564a3df
+# DATE CREATED: 2016-12-17 
 # REVISED DATE:
 # PURPOSE: Create the function get_pet_labels that creates the pet labels from
 #          the image's filename. This function inputs:
